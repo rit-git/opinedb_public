@@ -1,0 +1,14 @@
+{
+    "s3_link" : "https://s3.us-east-2.amazonaws.com/yelp-opine/new_extractor/simple_opine/london_hotels.zip",
+    "zip_fn" : "london_hotels.zip",
+    "entity_fn" : "raw_hotels.json",
+    "raw_review_fn" : "raw_reviews.csv",
+    "extraction_fn" : "london_reviews_with_extractions.json",
+    "all_reviews_fn" : "all_reviews.json",
+    "queries_fn" : "hotel_queries.txt", 
+    "histogram_fn" : "entities_with_histograms.json",
+    "sentiment_output_fn" : "sentiment.json",
+    "word2vec_fn" : "word2vec.model",
+    "idf_fn": "idf.json",
+    "labels_fn" : "labels.json"
+}

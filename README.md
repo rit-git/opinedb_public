@@ -1,1 +1,1 @@
-# opinedb_public
+# opinedb_public## Install required packagesAll experimental codes are written in Python 3. To install the required packages:```pip install -r requirements.txt```
