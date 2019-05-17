@@ -19,7 +19,7 @@ cd data/
 make
 ```
 
-The datasets consist of a hotel review dataset from (booking.com)[https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe] and a restaurant review dataset from (Yelp)[https://www.yelp.com/dataset]. More specifically, our experiment considers 4 subsets of the two datasets: hotels in Amsterdam, hotels in London < $300 per night, low price restaurants in Toronto, and japanese restaurants in Toronto.
+The datasets consist of a hotel review dataset from [booking.com](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe) and a restaurant review dataset from [Yelp](https://www.yelp.com/dataset). More specifically, our experiment considers 4 subsets of the two datasets: hotels in Amsterdam, hotels in London < $300 per night, low price restaurants in Toronto, and japanese restaurants in Toronto.
 
 TODO: add a table of the dataset summaries.
 
