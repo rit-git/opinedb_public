@@ -1,0 +1,443 @@
+blast Golden Gate Park tour	general
+really reasonable Groupon	price
+kinda backstage	general
+always enjoy taking a peak	general
+free enter	price
+many unique coin operated machines	facility
+great place to bring kids of all ages	family
+Fun and funny guides	staff
+Learned a lot about the city	general
+Nice place	general
+very interesting and engaging exhibits	exhibit
+great time at the Holiday Lights	general
+major improvement new playground	facility
+very friendly and courteous staff	staff
+Perfect spot to take pictures	photo
+great pop culture art	art
+newish Playground	facility
+love park	general
+new leash dog area	facility
+new smooth concrete	facility
+cool new rubber floor	facility
+not forget views from this Park	view
+Awesome views of the bay and downtown	view
+success around	location
+favorite part of San Francisco	general
+beautiful rides	view
+take your breath away place	view
+amazing facilities	facility
+Best place	general
+Great theatre	general
+fantastic destination	general
+Comfortable seating	facility
+available tables	facility
+largest park	general
+awesome park	general
+LOve place	general
+large building	general
+free bag check	facility
+sunny weekend	time
+interesting people	facility
+incredible views of the city	view
+best playgrounds	general
+Fun little stop	general
+Mechanical amusement	facility
+Fun place	general
+Lots of green space	view
+nice little beach	view
+cold times	time
+Beautiful spot	view
+wonderful night out	time
+whole night long smiling	time
+enjoying drink	food
+pretty surroundings	location
+ridiculously hugh admissin price	price
+closed tower	facility
+so delicious meals	food
+awesome place	general
+blast cruised	general
+favorite spot	general
+awful place	general
+walk across another cockroach	facility
+nearby aquarium	location
+unique pieces	general
+small lobby	facility
+worth seeing a comedy show	general
+BEST BANG FOR YOUR BUCK	price
+without walking miles see ALL the city	walking
+fast and efficient cars	facility
+friendly staff	staff
+HIGHLY RECOMMEND for tourists	general
+awesome views of GGB	view
+enjoy view with sunlight	view
+Large rooftop garden with benches	facility
+open seating area	facility
+nice respite	facility
+much variety	facility
+unique gift	facility
+loved wine	food
+not bad permanent collection	exhibit
+prefer visiting the building	general
+only Adults	family
+kind of snooze fest	general
+tastes like cafeteria food	food
+highly recommend going	general
+quite enjoyable exhibits	exhibit
+Great walk up the street	walking
+hidden treasure	general
+Perfect photo shot	photo
+pretty cool to see	view
+have to see view	view
+Beautiful place	view
+memories great	general
+nightmare parking	parking
+nice little jewel	general
+amazing location	location
+good value Membership	price
+best park	general
+Great breakfast spot	food
+great overlooks	view
+Hidden gem	general
+full blown winery	food
+plenty of metered parking	parking
+love art	art
+cool stuff	exhibit
+ideal photo seeing	photo
+ideal for runs and walks	walking
+great view	view
+quite a gem	general
+enjoy landscaping	view
+Very good restaurant	food
+fun place	general
+have FUN kids	family
+Great views from the top	view
+incredible atmosphere	vibe
+awesome game	vibe
+closest Powell Bart station	location
+Awesome view	view
+improving furniture and decor	vibe
+nice quiet spot	vibe
+adequate overall	general
+worth extra long trek	general
+plenty of parking	parking
+Great little visitor center	facility
+appreciate restrooms	facility
+couple route options	walking
+beautiful place	view
+constant interesting information	facility
+very easy to ride segways	facility
+great way to see the city	view
+fun for everyone	family
+worth 10 mins	general
+So much fun	general
+great deal	price
+pretty good photos	photo
+excellent pad	facility
+great time	general
+Great atmosphere	vibe
+pure magic Nob Hill Masonic Center	general
+worth it experience	general
+enjoying fountain	view
+AWESOME piece of history	art
+Crowded pride weekend	crowd
+great time	general
+fun times	general
+Great crowd	crowd
+Neighborhood spot	location
+loved lighting and decor	vibe
+interesting upstairs	vibe
+magnifique Park	view
+wine bar	food
+odd British Look	vibe
+Scary island	general
+Great experience	general
+historic film	art
+Such delight	vibe
+free first sunday	price
+Best cinema	general
+friendly and informative staff	staff
+well layed out exhibits	exhibit
+good price	price
+countless shows and concerts	exhibit
+great views	view
+always very top shows	exhibit
+Lovely theater	general
+Really beautiful place	view
+suggest night	time
+Landmark place	general
+right around Exploratorium	location
+really knowledgeable Mark	staff
+impulse purchase	price
+recommend winery	food
+cool and fun place	general
+always busy there	crowd
+cool celebrities	general
+jam packed weekday	crowd
+worth drive	general
+good picture	photo
+best photo	photo
+Worth drive/walk	walking
+top attractions	general
+good spot to kill some time	general
+favorite place	general
+only adults	family
+main tourist attraction	general
+local businesses	general
+love clam chowder	food
+really cool electric bike	facility
+fantastic addition to SF	general
+Great Plaza	general
+long line	crowd
+totally worth audio tour	facility
+mysterious atmosphere	vibe
+fantastic views of the city	view
+hard to match drinks and wine list	food
+amazing people	staff
+wonderful time	general
+love full menu	food
+two hours free parking	parking
+San Francisco gem	general
+historic work of art	art
+smoky ambiance	vibe
+very crowded free days	crowd
+worth checking exhibition	exhibit
+Cool place	general
+amazing revamp	general
+real treat living roof	view
+amazed by SCIENCE	general
+high menu prices	price
+okay chocolate volcano dessert	food
+loved Salmon	food
+nice view	view
+in the bay air relax and breath	walking
+Amazing place to play basketball	general
+Love theater	general
+Perfect for adults and kids	family
+free day	price
+outstanding wines	food
+very impressive museum	general
+Easy access for baby in stroller	family
+Worth visiting	general
+less crowded place	crowd
+good seats	facility
+crooked street	view
+more pleasing surrounding	location
+famous tourist attraction	general
+loved everything	general
+unique place	general
+haunting place	general
+very strong wind	walking
+sunny day	time
+spectacular views of the Golden Gate Bridge	view
+Great Church	general
+great deal	price
+very comfortable seats	facility
+better hockey rinks	facility
+most interesting places	general
+love aquarium	general
+free entrance	price
+distinguished architect	art
+very large collection of Rodin sculptures	art
+savvy Spreckels	art
+a lot of space for events	facility
+Great place to watch a movie	general
+friendly and helpful staffs	staff
+fun place to hang out	general
+cool stuff	exhibit
+love museum	general
+a lot of fun	general
+quite fun museum	general
+okay setting	vibe
+amazing tour	general
+very caring guide	staff
+great off leash dog play area	facility
+Excellent place for Jazz lovers	vibe
+Excellent concept of music	vibe
+just ok Drinks	food
+best places to dine	food
+best fried chicken	food
+historical experience	art
+steep slide	general
+looked pretty fun slides	general
+great sound and acoustics	vibe
+great lighting	vibe
+good experience	general
+very frendly people	staff
+most happening place	general
+enjoy wandering	general
+very old style and atmosphere	vibe
+family owned business	vibe
+several more items	exhibit
+love members only hour	price
+excited about science kids	family
+expected a bigger submarine	facility
+old theaters	vibe
+good stuff	exhibit
+not a very touristic place	general
+Fabulous movie theater	general
+good Sunset Tour	general
+good picture opportunities	photo
+Great view	view
+interesting place to visit	general
+great place	general
+Great view	view
+wonderful time	general
+wonderful to visit place	general
+softens light	vibe
+wonderful hike	walking
+Not a lot of exhibits	exhibit
+boring Theatre movies	exhibit
+amazing free audio tour	facility
+best audio tour	facility
+really worth price	price
+terrible rainbow trout	food
+under cooked and crunchy veggies	food
+efficient Service	staff
+Surprisingly big museum	general
+pretty family pictures	photo
+Best ballpark	general
+Gorgeous view	view
+Awesome ocean breeze	walking
+No bad seats	facility
+absolutely love ballpark	general
+nearby free street parking	parking
+blast with family fun	family
+best time with the family	family
+Best movie theater	general
+loves kid	family
+pain Parking	parking
+warmly welcomed staff	staff
+fantastic wine	food
+delicious tasting	food
+too similar cocktails	food
+quite tasty poutine	food
+favorite photography exhibit	exhibit
+Love Lucky Ocean	general
+Smaller selection	exhibit
+great and friendly atmosphere	vibe
+amazing visit	general
+loved night life	vibe
+highly recommend place	general
+best bigger theater	general
+best seats	facility
+older theaters	general
+enjoy vintage experience	vibe
+oddly designed Century Theater	general
+son s favorite place	family
+safe children	family
+fair rates	price
+great place for a party	general
+great tour	general
+tiny shop	facility
+really nice efficient store owner	staff
+historic Hobart Building	art
+Great walking trip	walking
+short walk to Union Square and Chinatown	walking
+Good clean and comfortable rooms	facility
+unique experience	general
+pretty good deals	price
+Huge fan of Exploratorium	general
+fun crowd	crowd
+good place	general
+famous concrete slide	facility
+in the Summer camp kids	family
+favorite restaurant	food
+excellent sand dabs and salman	food
+Awesome view	view
+excellent place to bring your kids	family
+fun and educational for both children and adults everything	family
+pretty neat albino alligator	general
+sustainable Living Roof	facility
+big kudos	general
+pleasant setting	facility
+more peace here	vibe
+brief tour	general
+easily see the entire zoo	view
+Pretty easy to get to	location
+Loved place	general
+of the World Wonders	general
+way too expensive toll	price
+very interesting night tour	general
+with friends sunny day	time
+enjoy good life	general
+restricted to kids only	family
+best of S.F	general
+good view	view
+Truly magnificent views	view
+very challenging trails	walking
+many dogs	general
+must-see San Francisco	general
+wow miles	view
+plenty of free parking	parking
+love trees and fountains	view
+relaxing and fun walking	walking
+$ 10 Admission	price
+well-known artists	art
+great views of San Francisco	view
+part of the museum free	price
+Free admission	price
+beautiful Pier	view
+loads of things for entertainment	general
+Best museum	general
+favorite rainforest	view
+different inside weather	time
+oldest intact Mission	art
+glad to take the kids here	family
+best views	view
+happy sit	facility
+complains legroom	facility
+Best park	general
+pretty old building	vibe
+pretty empty its	crowd
+not a lot of staffs	staff
+with a friend Came	family
+incredible place to visit and hang out	family
+Enjoyed Aussie Spirit	food
+A gem of theater	general
+smells WEED	vibe
+lovely place	general
+no real Beach	view
+Best laptop cafe	general
+excellent Coffee	food
+fantastic facility	facility
+exploring museum	general
+surrounded by beautiful gardens building	location
+Love place	general
+good time	general
+great sourdough bread	food
+water slides Pool	facility
+best grill shop ever	food
+in minutes grill	food
+yee Quality craftmanship	food
+beautiful gardens	view
+secret garden	view
+Best theater	general
+love movies	exhibit
+good start	general
+awesome corners	location
+fairly good deal	price
+great time	general
+great experience	general
+pretty sweet museum	general
+Completely worth the money	price
+ride on the ferry great	general
+Best place on earth	general
+awesome inside place	general
+Kind of small	general
+live music on Thursdays	vibe
+enjoyed imax	facility
+lovely bikes	facility
+nice amount of air in tires	walking
+extremely heavy bikes	facility
+25 bucks for an all day ride	price
+an Easy Walk From Coit Tower	walking
+quick burger	food
+looked tired and hungry Staff	staff
+recommend place	general
+can explore and enjoy park	general
+GREAT neighborhood playground	location
+love taking young daughters	family
+nice club house	general
+Lovely urban oasis	general
+the MLK area waterfall area	general
+Lots of fun for family	family

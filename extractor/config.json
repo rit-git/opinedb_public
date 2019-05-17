@@ -1,0 +1,8 @@
+{
+  "input_dir_path" : "./data/trust_you_test/",
+  "bert_path" : "../../../uncased_L-12_H-768_A-12",
+  "tagging_path" : "models/tagging/hotel",
+  "pairing_path" : "models/pairing/model",
+  "classifier_path" : "models/classification/hotel",
+  "output_path" : "results/trustyou_test_reviews_with_extractions.json"
+}

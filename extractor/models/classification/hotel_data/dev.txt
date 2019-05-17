@@ -1,0 +1,1000 @@
+great Decor	building
+Good information	operation
+deco art	building
+great restaurant	food
+No places	building
+no bar	building
+Traditional building	building
+good Greek restaurant	food
+amazing hotel	building
+really wonderful stay	building
+great cleanliness of	room -> cleanliness
+nice bar	room -> cleanliness
+not so sympathetic Accessing	building
+welcoming Everything	staff
+beautiful fantastic time	building
+not good for public transport	location
+friendly stuff	staff
+eager places	building
+small Pub	building
+friendly clean hotel	room -> cleanliness
+excellent choice	building
+clean parking	building
+old furneture	building
+beautiful Hotel	building
+lots of pubs	building
+shabby Hotel	building
+Fantastic hotel	general
+excellent Everything	general
+modern hotel	general
+very friendly hotel	staff
+Beautiful hotel	building
+great Stadium	building
+amazing place	general
+friendly language	building
+superb hotel	general
+great restaurant	food
+great Everything	general
+claustrophobic Shabby	building
+relieving outdoor garden	building
+no magazines	building
+much nicer hotel	building
+small hotel	general
+perfect Everything	general
+fresh decoration	building
+Lovely hotel	building
+good renovation	building
+Clean hotel	room -> cleanliness
+well appointed London	general
+lovely touches	building
+without clothes	facility
+exceptionally clean Everywhere	building
+accommodating Hotel	general
+very clean hotel	room -> cleanliness
+a pub grub	building
+good place	general
+Loved decor	building
+Great cinema	location
+new nice	general
+much different hotel	general
+Nice comfortable hotel	general
+cutest area	building
+not managing time	operation
+beautiful Ambience	building
+Wonderful place	general
+Lovely renovation of	building
+Absolutely delightful place	building
+well run hotel	operation
+not there room	building
+clean hotel	room -> cleanliness
+like building	building
+nice restaurant	food
+Beautiful stunning hotel	building
+not pretentious hotel	building
+lovely bar	building
+far nicer pictures	building
+Nice bar	food
+not enough tables	food
+good boat club	building
+modern feel	building
+great Ambience	building
+Nice hotel	general
+lovely Hotel	building
+outstanding Cleanliness	building
+not very clean badly maintained rooms	room -> cleanliness
+beautiful city	location
+good London	location
+very friendly hotel	staff
+Good building	building
+good hotel	general
+Clean hotel	room -> cleanliness
+love place	general
+modern hotel	building
+Fantastic hotel	general
+spotlessly clean Everything	room -> cleanliness
+good hotel	general
+amazing place	general
+clean hotel	room -> cleanliness
+Last hotels	general
+stylish grand building	building
+nice looking lobby	building
+modern Place	building
+brilliant everything	general
+Super friendly empowered	staff
+wonderful hotel	general
+pretty public park	location
+amazing hotel	general
+clean hotel	room -> cleanliness
+Loved decor	building
+Very tacky hotel	building
+unique history	building
+Nice vibe	building
+Nice alternative	facility
+Very basic beverage facilities	facility
+Free water	facility
+fab pool	facility
+Free parking	facility
+amazing facilities	facility
+free gym	facility
+scratched facilities	facility
+Excellent breakfast	food
+Excellent food	food
+not able to take breakfast	food
+Nice informal breakfast set up	food
+Great breakfast	food
+good Food	food
+a little small breakfast	food
+delicious breakfast	food
+very watery bacon	food
+a bit too much breakfast	food
+really good pasta buffet	food
+happy cake	food
+strong coffee	food
+Very tasty cookie	food
+well cooked breakfasts	food
+worst Breakfast	food
+Great breakfast	food
+amazing breakfast buffet	food
+Lovely quality biscuits	food
+very comfortable breakfast	food
+Excellent breakfast	food
+great food	food
+helpful breakfast	food
+tasty Breakfast	food
+Very close to food	food
+problems Breakfast	food
+very nice Breakfast	food
+good breakfast	food
+exceptional breakfasts	food
+accommodating breakfast	food
+very large breakfasts	food
+good breakfast	food
+tasty cookies	food
+Simple breakfast of	food
+excellent coffee	food
+wasn t that good breakfast	food
+very hot Breakfast	food
+tasty Food	food
+Good quality coffee tea	food
+disgusting vat	food
+comfortable breakfast	food
+outstanding food	food
+Great breakfast	food
+liked coffee	food
+busy breakfast	food
+wonderful breakfast	food
+limited breakfast	food
+very good croissants	food
+good buffet	food
+cold food	food
+clean coffee	food
+tasteless bacon	food
+nice breakfast	food
+nice herbal teas	food
+loved drinks	food
+slowness food	food
+Fresh fruit yogurts	food
+great breakfast	food
+available tea coffee facilities	food
+no potato	food
+No tea	food
+Fresh milk	food
+cold drink	food
+very generous bottled water	food
+good Breakfast	food
+delicious breakfast buffet	food
+not breakfast altercations	food
+2nd food	food
+Nice Breakfast choice	food
+Complimentary coffee	food
+Excellent breakfast	food
+No teaspoon supplies of tea	food
+not very friendly food	food
+Delicious breakfast	food
+very good food	food
+Excel breakfast buffet	food
+good food	food
+very dry beans	food
+good Breakfast	food
+not a deal breaker Food	food
+Didn t have a meal	food
+good food	food
+OK breakfast	food
+great breakfast	food
+lots of Breakfast	food
+fancy breakfast	food
+poor Health	general
+great Hotel	general
+flexible hotel	general
+great stay	general
+Great hotel	general
+best hotel bars	general
+wasn t working mini bar	general
+great hotel	general
+Amazing hotel wish	general
+Great hotel	general
+fine Everything	general
+quite good overall comfort level	general
+big Location	location
+tucked away location	location
+great close to Location	location
+quiet Location	location
+Easily reachable central station	location
+no lift	location
+close Tube	location
+very practical bus	location
+central theatres	location
+Great location	location
+a little walk away corner shops	location
+5min from tube	location
+Friendly location	location
+close to tube station	location
+Amazing location	location
+excellent location	location
+Only 2 minutes from DLR	location
+good transport connection	location
+right next to train bus station	location
+huge bonus shopping areas	location
+Tucked away pubs	location
+good location	location
+Convenient to tube public transport	location
+Good location for	location
+easy way to get the railway station	location
+exceptional location	location
+close proximity room	location
+friendly location	location
+good location	location
+easy access to central	location
+centrally located hotel	location
+near by metro station	location
+very good location	location
+Very good location	location
+fab restaurant	location
+good location	location
+close place	location
+Good location	location
+Closer to tube station	location
+Convenient to pubs	location
+excellent location	location
+occupied Hotel elevators	location
+nearby coffee shops	location
+Excellent location	location
+very close to location	location
+gentle walk Location	location
+Great location	location
+excellent location	location
+very central tube	location
+accessible out of town	location
+very useful location	location
+not far from location	location
+amazing location	location
+Excel Exhibition centre	location
+not far from ice bar	location
+easy access to central	location
+Great location	location
+Great location	location
+close to station	location
+great location	location
+less than 10 mins walk Garden	location
+Perfect location	location
+close by amenities	location
+clean tube stations	location
+very quiet location	location
+Not much around location	location
+15 min ride centr of town	location
+Excellent location	location
+stroll stroll	location
+within walking distance hotel	location
+1 stop centraal	location
+helpful close to tube station	location
+5 minutes walk Westfield shopping mall	location
+great Location	location
+Inadequate pathways from station	location
+15min ride Central Station	location
+just off Kengsington location	location
+1 mn away Metro	location
+boutique Location	location
+excellent local restaurants	location
+close to tram stop	location
+very accessible boat	location
+one train ride away Station	location
+5 metro station	location
+very limited shuttle bus service	location
+very centrally located place	location
+great Location	location
+well served Station	location
+roomy location	location
+no lift	location
+very convenient Queensway	location
+frozen queues	location
+Great location	location
+close at restaurants	location
+Really good location	location
+very central location	location
+Super location	location
+easily accessible hotel	location
+closer Parking	location
+Proximity Lounge	location
+Central Location	location
+Easy walk to	location
+did not work remote	location
+Great location	location
+excellant Location	location
+very well connected location	location
+best Location	location
+quite far from hotel	location
+close building	location
+close to Location	location
+quite area Location	location
+5 minute walk Location	location
+perfect location	location
+Easy walk to the tube	location
+high tube station	location
+Perfect metro	location
+busy airport	location
+Very close to Location	location
+close to tube	location
+Walking distance hotel	location
+Excellent location	location
+easy to reach Public transport	location
+absolutely perfect location	location
+splendid location	location
+Convenient location	location
+good sized restaurant on site	location
+trendy Location	location
+Great location	location
+Great location	location
+Good location	location
+great location	location
+Good location	location
+perfect location	location
+very close public transportation	location
+very close to hotel	location
+Excellent location	location
+Very friendly location	location
+Close to bus	location
+A little longer walk	location
+easy to get there location	location
+convenient location	location
+great location	location
+good location	location
+close to Greenwich	location
+near elevator	location
+superb location	location
+Good location	location
+great location	location
+lots of shops	location
+well positioned for RAH	location
+nearby restaurants	location
+perfect Location	location
+free upgrade to the	operation
+way too slow wifi connection	operation
+weak internet connection	operation
+free movies	operation
+excellent service	operation
+free wifi	operation
+great time	operation
+nice touches	operation
+15mins to Walk	operation
+nice touch	operation
+no check out time	operation
+a bit slow service	operation
+quick kitchette	operation
+not good WIFI	operation
+not spotless wifi	operation
+did not work Wifi	operation
+busy computer	operation
+sloppy Table service	operation
+nice start	operation
+free upgrade	operation
+Great service	operation
+normal conversations	operation
+free smart phone	operation
+quick Check in	operation
+smiles Breakfast reception	operation
+very smooth Christmas Booking in	operation
+excellent service	operation
+late check out	operation
+long winded check in	operation
+Very good service	operation
+excellent service	operation
+great service	operation
+late check out	operation
+excellent service	operation
+relaxed mood	operation
+beautiful honesty bar	operation
+nice pressure of	operation
+brilliant iPad controls	operation
+really bad wifi range	operation
+very slow elevator	operation
+inadequate delivering coffee	operation
+Very quick service	operation
+massive Bathroom	room -> bathroom
+brilliant showers	room -> bathroom
+fixed shower screen	room -> bathroom
+a bit hit Shower	room -> bathroom
+didn t work cold water	room -> bathroom
+small bathroom	room -> bathroom
+not work properly shower	room -> bathroom
+a little shabby spa facilities	room -> bathroom
+small bathroom	room -> bathroom
+very difficult toilet	room -> bathroom
+exposed Hair dryer	room -> bathroom
+curtains don t bathrooms	room -> bathroom
+tiny bathroom	room -> bathroom
+good bathroom	room -> bathroom
+fancy bath	room -> bathroom
+Small bathroom spaces	room -> bathroom
+Good shower	room -> bathroom
+a bit small shower	room -> bathroom
+great bathrooms	room -> bathroom
+sparkling clean Bathrooms	room -> bathroom
+no shampoos	room -> bathroom
+comfortable bathroom	room -> bathroom
+SMALL BATHROOM	room -> bathroom
+no drinking water	room -> bathroom
+great bath	room -> bathroom
+complimentary water	room -> bathroom
+Small toilet	room -> bathroom
+Clean Rainforest shower	room -> bathroom
+clean bathroom	room -> bathroom
+very big shower	room -> bathroom
+No hairdryer	room -> bathroom
+great Bathroom	room -> bathroom
+filthy bathroom	room -> bathroom
+Huge Shower	room -> bathroom
+better quality Toilet roll	room -> bathroom
+stank of bathroom	room -> bathroom
+amazing bathroom	room -> bathroom
+so small bathroom	room -> bathroom
+very small Bathroom	room -> bathroom
+tiny bathroom	room -> bathroom
+comfy toiletries	room -> bathroom
+very comfortable water	room -> bathroom
+No hairdryer	room -> bathroom
+tiny bathroom	room -> bathroom
+complimentary shower gel	room -> bathroom
+no fridge	room -> bathroom
+tiny wash basin	room -> bathroom
+No toothbrush	room -> bathroom
+excellent Beds	room -> bed
+huge cheese board	room -> bed
+very comfy bedding	room -> bed
+comfy lobby	room -> bed
+worn sofabed	room -> bed
+uncomfortable beds	room -> bed
+small bed	room -> bed
+very comfortable Bed	room -> bed
+very comfortable Bed	room -> bed
+lovely bed	room -> bed
+comfortable Bed	room -> bed
+very high bed	room -> bed
+tatty beds	room -> bed
+comfortable bed	room -> bed
+very high sleeping	room -> bed
+not real bed	room -> bed
+positive clean sheets	room -> bed
+lots of bed	room -> bed
+lovely beds	room -> bed
+Comfy hardish beds	room -> bed
+brilliant bed	room -> bed
+no duvet	room -> bed
+comfy work	room -> bed
+slipped Mattress	room -> bed
+dowdy carpet	room -> bed
+extremely comfortable bed	room -> bed
+comfortable bed	room -> bed
+good size bed	room -> bed
+no night s sleep	room -> bed
+comfy Espresso machine	room -> bed
+small bed	room -> bed
+comfortable bed	room -> bed
+uncomfortable bed	room -> bed
+way to fat Pillows	room -> bed
+very tastefully decorated bed	room -> bed
+tired Beds	room -> bed
+super comfy beds	room -> bed
+old bed	room -> bed
+Really comfortable bed	room -> bed
+really big quilts	room -> bed
+Comfy rooms	room -> bed
+ripped wallpaper	room -> bed
+tired Carpets	room -> bed
+best bed	room -> bed
+a bit hard Beds	room -> bed
+comfortable bed	room -> bed
+Comfy King bed	room -> bed
+great sleep	room -> bed
+small Queen bed	room -> bed
+comfortable bed	room -> bed
+very comfortable bed	room -> bed
+very comfortable bed	room -> bed
+Luxurious feel	room -> bed
+okay Bed	room -> bed
+comfortable bed	room -> bed
+very comfy Bed	room -> bed
+excellent Bed	room -> bed
+comfortable Bed	room -> bed
+very comfortable bed	room -> bed
+very comfortable bed	room -> bed
+lovely furniture	room -> bed
+a bit lumpy Pillows	room -> bed
+comfortable bar	room -> bed
+Good bed	room -> bed
+funky bed	room -> bed
+dirty duvet	room -> bed
+Terrible beds	room -> bed
+ready for mattress	room -> bed
+comfy beds	room -> bed
+very good quality bedding	room -> bed
+too hard Pillows	room -> bed
+really comfy Beds	room -> bed
+Very comfy beds	room -> bed
+not bad bed	room -> bed
+uncomfortable pillows	room -> bed
+comfortable king sized	room -> bed
+Excellent night s sleep	room -> bed
+Comfortable by bike	room -> bed
+very comfortable Room	room -> cleanliness
+so hot room	room -> cleanliness
+not good Rooms	room -> cleanliness
+Beautiful rooms	room -> cleanliness
+Pleasant room	room -> cleanliness
+wasn t originally ready room	room -> cleanliness
+miserable Room	room -> cleanliness
+right next to Student rooms	room -> cleanliness
+a bit housekeeping	room -> cleanliness
+clean Room	room -> cleanliness
+Very disappointing room	room -> cleanliness
+impeccably clean rooms	room -> cleanliness
+also too cold	room -> cleanliness
+not empty vacuum cleaning	room -> cleanliness
+unpleasant smell	room -> cleanliness
+clean room	room -> cleanliness
+very comfortable room	room -> cleanliness
+very poor room air con	room -> cleanliness
+suffused with bedroom	room -> cleanliness
+Spotlessly clean room	room -> cleanliness
+clean room	room -> cleanliness
+Clean room	room -> cleanliness
+good Room	room -> cleanliness
+a bit dated room	room -> cleanliness
+very hot room	room -> cleanliness
+clean rooms	room -> cleanliness
+courteous rooms	room -> cleanliness
+clean room	room -> cleanliness
+well appointed room	room -> cleanliness
+tastefully designed rooms	room -> cleanliness
+Clean rooms	room -> cleanliness
+didn t work Room	room -> cleanliness
+well presented with room	room -> cleanliness
+very unfriendly room	room -> cleanliness
+very creaky room	room -> cleanliness
+clean Room	room -> cleanliness
+very hot Room	room -> cleanliness
+nice room	room -> cleanliness
+clean rooms	room -> cleanliness
+amazing room	room -> cleanliness
+very unpleasant smell	room -> cleanliness
+Very nice room	room -> cleanliness
+very clean room	room -> cleanliness
+wasn t cleaned very well room	room -> cleanliness
+perfect room	room -> cleanliness
+brilliant room	room -> cleanliness
+very grey grouting	room -> cleanliness
+clean room	room -> cleanliness
+clean Room	room -> cleanliness
+clean room	room -> cleanliness
+bland Room decor	room -> cleanliness
+very comfortable plentiful facilities	room -> cleanliness
+amazing room	room -> cleanliness
+pleasant room	room -> cleanliness
+VERY clean double room	room -> cleanliness
+clean rooms	room -> cleanliness
+very confortable room	room -> cleanliness
+poor Room design	room -> cleanliness
+smelly Room	room -> cleanliness
+not so easy Find room	room -> interior
+Bit hot room	room -> interior
+excellent bars	room -> interior
+poor Lighting	room -> interior
+quite warm fan	room -> interior
+Nice enclosed	room -> interior
+very thin walls	room -> interior
+a bit dark Rooms	room -> interior
+kept closed door	room -> interior
+no heating	room -> interior
+weirdly missing door	room -> interior
+incredibly dark rooms	room -> interior
+filthy curtain	room -> interior
+Spotlessly clean tiles	room -> interior
+no boiler	room -> interior
+proper lobby area	room -> interior
+lack of privacy	room -> interior
+very thin walls	room -> interior
+Private entrance to	room -> interior
+light ambience	room -> interior
+too hot Room	room -> interior
+very thin Walls	room -> interior
+no draws	room -> interior
+good light	room -> interior
+worn indicator on	room -> interior
+sneaky room	room -> interior
+no racks	room -> interior
+inadequate lighting	room -> interior
+Creaky floorboards	room -> interior
+no minibar	room -> interior
+dirty walls	room -> interior
+too thin walls	room -> interior
+cracked ceiling	room -> interior
+no real natural light	room -> interior
+noisy room	room -> quietness
+rattle air conditioning	room -> quietness
+Very quiet rd	room -> quietness
+very harsh jittery	room -> quietness
+no fire alarms	room -> quietness
+extremely noisy doors	room -> quietness
+cold room	room -> quietness
+noisy hotel	room -> quietness
+tired Room	room -> quietness
+a little warm roaring fire	room -> quietness
+very very noisy room	room -> quietness
+buzzing with atmosphere	room -> quietness
+No noises	room -> quietness
+Couldn air con	room -> quietness
+very loud Noise	room -> quietness
+NO ATMOSPHERE	room -> quietness
+quiet room	room -> quietness
+very quiet rooms	room -> quietness
+noisy music	room -> quietness
+ill air conditioning	room -> quietness
+very quite noise	room -> quietness
+too noise room	room -> quietness
+quiet street	room -> quietness
+roaring fire	room -> quietness
+no AC	room -> quietness
+quiet room	room -> quietness
+poor soundproofing	room -> quietness
+quite noisy room	room -> quietness
+very quiet hotel	room -> quietness
+great music	room -> quietness
+quiet room	room -> quietness
+very very small rooms	room -> size
+small room	room -> size
+wonderfully furnished Room	room -> size
+Good sized room	room -> size
+tiny roof	room -> size
+comfortable room	room -> size
+very small Room	room -> size
+very small Room	room -> size
+very modern bar	room -> size
+Poorly fitted rooms	room -> size
+far to small Rooms	room -> size
+compact room	room -> size
+good single room	room -> size
+cozy room	room -> size
+spacious room	room -> size
+very small room	room -> size
+spacious Room	room -> size
+Great room	room -> size
+not comparable rooms	room -> size
+uncomfortably tiny room	room -> size
+very limited lift capacity	room -> size
+very luxurious rooms	room -> size
+very very small room	room -> size
+Tiny rooms	room -> size
+too compact Business Class rooms	room -> size
+small courtyard	room -> size
+small Room	room -> size
+too thin wall	room -> size
+spacious lobby	room -> size
+really tiny room	room -> size
+huge room	room -> size
+overlooked room	room -> size
+No real space	room -> size
+spacious rooms	room -> size
+very small room	room -> size
+spacious Rooms	room -> size
+small Rooms	room -> size
+fairly spacious room	room -> size
+small Rooms	room -> size
+spacious club room	room -> size
+comfortable Room	room -> size
+good sized room	room -> size
+small room	room -> size
+great room	room -> size
+Big room	room -> size
+very modern room	room -> size
+very comfortable rooms	room -> size
+well equipped gym	facility
+comfortable rooms	room -> size
+extremely small room	room -> size
+deeply comfortable rooms	room -> size
+very top Room	room -> size
+functioned well Rooms	room -> size
+Well equipped rooms	room -> size
+a little small room	room -> size
+slightly small Room	room -> size
+huge room	room -> size
+too small choices	room -> size
+wider variety of channels	room -> size
+Big room	room -> size
+Small room	room -> size
+no space	room -> size
+large room	room -> size
+Great room	room -> size
+too narrow Coridors	room -> size
+well designed room	room -> size
+quite small Room	room -> size
+Hardly any space	room -> size
+excellent seating area	room -> size
+recently refurbished room	room -> size
+a little small room	room -> size
+well furnished rooms	room -> size
+large Rooms	room -> size
+Sizable room	room -> size
+modern rooms	room -> size
+very small room	room -> size
+great room	room -> size
+adequate room	room -> size
+quite small Room	room -> size
+great rooms	room -> size
+facing rooms	room -> size
+comfortable room	room -> size
+lack of space	room -> size
+Beautiful large room	room -> size
+didn t work tv programs	room -> supplies
+didn t work TV	room -> supplies
+perfect temperature	room -> temperature
+low temperature	room -> temperature
+warmer Room temperature	room -> temperature
+humid AC	room -> temperature
+very cold heating	room -> temperature
+cooled weather	room -> temperature
+amazing view	room -> view
+lovely Sky bar	room -> view
+very high open window	room -> view
+nice view	room -> view
+wow views	room -> view
+Great view of tower bridge	room -> view
+Great view of	room -> view
+awful view	room -> view
+perfect weather	room -> view
+lush view	room -> view
+don t open Window	room -> view
+busy road	room -> view
+nice view	room -> view
+no windows	room -> view
+interesting corners	room -> view
+no windows	room -> view
+no view	room -> view
+very good Views	room -> view
+overlooked car park	room -> view
+not really acceptable Views from rooms	room -> view
+no window	room -> view
+views Tower Bridge	room -> view
+busy cities	room -> view
+beautiful facilities	room -> view
+busy street room	room -> view
+Broken window	room -> view
+lovely view of the terrace	room -> view
+quiet neighborhood	safety
+congested reception areas	safety
+much quieter park	safety
+quiet area	safety
+clean facilities	safety
+easy drive in	safety
+good company bar man	staff
+very helpful Manager	staff
+rushed cleaning	staff
+nice staff	staff
+good staff	staff
+Great professional staff	staff
+Very helpful staff	staff
+very friendly staff	staff
+warm welcome	staff
+helpful staff	staff
+very friendly hotel staff	staff
+very welcoming Reception staff	staff
+helpful staff	staff
+friendly staff	staff
+very helpful staff	staff
+happy staff	staff
+friendly Staff	staff
+very helpful Staff	staff
+lovely staff	staff
+very friendly Staff	staff
+extremely helpful room	staff
+great Staff	staff
+outstanding Room service	staff
+great staff	staff
+friendly staff	staff
+very friendly Staff	staff
+helpful staff	staff
+Excellent attitude of staff	staff
+lovely touch	staff
+super helpful Staff	staff
+very clean service	staff
+fast staff	staff
+very friendly staff	staff
+Very helpful staff	staff
+a bit strange doorman	staff
+annoyed staff	staff
+very helpful staff	staff
+friendly Staff	staff
+Very helpful staff	staff
+rude Staff	staff
+friendly staff	staff
+awful employees	staff
+polite restaurant	staff
+helpful staff	staff
+polite service	staff
+very helpful staff	staff
+indifferent Staff	staff
+excellent staff	staff
+welcoming staff	staff
+beautiful help	staff
+very friendly very Hotel Staff	staff
+very good Staff	staff
+helpful staff	staff
+very friendly staff	staff
+Helpful staff	staff
+friendly welcome to	staff
+helpful staff	staff
+friendly staff	staff
+nice staff	staff
+helpful staff	staff
+Nice staffs	staff
+very friendly staff	staff
+comfortable staff	staff
+bored staff	staff
+very friendly Staff	staff
+very polite Staff	staff
+attentive Staff	staff
+clean staff	staff
+lovely Staff	staff
+accommodating staff	staff
+friendly reception staff	staff
+Friendly staff	staff
+busy staff	staff
+fine Reception service	staff
+Great staff	staff
+helpful staff	staff
+very nice Staff	staff
+helpful staff	staff
+attentive staff	staff
+very welcoming staff	staff
+friendly staff	staff
+really helpful staff	staff
+excellent staff	staff
+Amazing customer service	staff
+real concierge	staff
+really hospitable hotel staff	staff
+close by staff	staff
+very polite staff	staff
+very kind staff	staff
+Friendly staff	staff
+unreasonable Staff	staff
+delicious room service	staff
+friendly people	staff
+welcoming receptionists	staff
+helpful staff	staff
+grumpy staff	staff
+happy doorman	staff
+Helpful staff	staff
+extremely rude customer service	staff
+Lack of staff	staff
+modern staff	staff
+great doorman	staff
+helpful staff	staff
+very helpful staff	staff
+demotivated Staff	staff
+Excellent staff	staff
+very friendly Staff	staff
+amazing staff	staff
+friendly Staff	staff
+Friendly staff	staff
+highly commended staff	staff
+Friendly staff	staff
+very kind staff	staff
+good boy	staff
+very pleasant staff member	staff
+very clean staff	staff
+lovely Staff	staff
+friendly Staff	staff
+very friendly Staff	staff
+lots reception service	staff
+Friendly staff	staff
+Friendly staff	staff
+very nice Staff	staff
+helpful hotel staff	staff
+Attentive service comfort	staff
+very helpful Staff	staff
+helpful staff	staff
+unhelpful reception staff	staff
+very good staff	staff
+relaxed staff	staff
+friendly Staff	staff
+Very polite staff	staff
+friendly staff	staff
+Friendly staff	staff
+tidy Staff	staff
+Helpful staff	staff
+exceptionally kind staff	staff
+Friendly staff	staff
+helpful concierge staff	staff
+perfect staff	staff
+very helpful staff	staff
+friendly staff	staff
+excellent Staff	staff
+friendly staff	staff
+very helpful staff	staff
+welcoming staff	staff
+good quality staff	staff
+charming Reception staff	staff
+very friendly staff	staff
+Variety staff	staff
+quality staff	staff
+very nice staff	staff
+polite staff	staff
+cleaniness Bar staff	staff
+Great staff	staff
+very friendly Staff	staff
+Very helpful staff	staff
+very friendly staff	staff
+lovely male	staff
+very good Room service curry	staff
+Very helpful staff	staff
+friendly staff	staff
+friendly staff	staff
+great staff	staff
+very attentive Service	staff
+great room service	staff
+Really friendly staff	staff
+happy staff	staff
+very clean customer service	staff
+friendly pub staff	staff
+friendly Staff	staff
+helpful staff	staff
+wonderful customer	staff
+very expensive Parking	value
+No GM	value
+very costly toast	value
+a little high Cost	value
+penny pinching cost	value
+real bonus courtesy bus to	value
+very pricey views	value
+very expensive Car park	value
+most prices	value
+Extremely cheap location	value
+excellent choices	value
+expensive checkout	value
+overpriced Breakfast	value
+too expensive coffee	value
+comfortable value for money	value
+Excellent value	value
+very good value for money	value
+too money	value
+reasonably priced choice	value
+SUPER TINY price	value
+Expensive way	value
+far too pricey Breakfast	value
+overpriced bar manager	value
+No marijuana smoking policy	value
+Expensive Suite	value
+cheap parking	value
+very over priced room	value
+very affordable rate	value
+very expensive Bar	value
+far too expensive Parking	value
+very expensive rates	value
+a little bit expensive breakfast	value
+well priced food	value
+a little pricey bar	value
+overpriced Food	value
+Good value for money	value
+a bit expensive Parking	value
+very poor offer	value
+a bit pricey Everything	value
+waste Executive	value
+Good value for money	value
