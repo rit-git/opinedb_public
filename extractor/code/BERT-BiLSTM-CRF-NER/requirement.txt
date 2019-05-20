@@ -1,3 +1,0 @@
-tensorflow = 1.10.0
-yaml
-numpy
