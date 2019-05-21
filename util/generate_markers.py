@@ -87,7 +87,7 @@ def generate_histograms(raw_reviews, reviews):
 
 
 def handle_punct(text):
-    text = text.replace("''", "'").replace("\n", ' ').replace("\\n", ' ')
+    text = text.replace("''", "'").replace("\n", ' ').replace("\\n", ' ').replace("\r", ' ')
     new_text = ''
     i = 0
     N = len(text)

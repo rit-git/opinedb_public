@@ -11,7 +11,7 @@ common_words = set(common_words)
 nlp = spacy.load('en_core_web_sm')
 
 def handle_punct(text):
-    text = text.replace("''", "'").replace("\n", ' ').replace("\\n", ' ')
+    text = text.replace("''", "'").replace("\n", ' ').replace("\\n", ' ').replace("\r", ' ')
     new_text = ''
     i = 0
     N = len(text)
