@@ -87,4 +87,4 @@ See instructions in ``extractor/run_extractor.ipynb``. The pipeline was used for
 
 ## How to run the extraction experiments (and the baseline):
 
-See instructions in ``extractor/run_extractor_exp.ipynb``.
+See instructions in Section 2 of ``extractor/run_extractor.ipynb``.
