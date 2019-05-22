@@ -1,4 +1,6 @@
-# OpineDB: a subjective database engine for querying subjective data
+# OpineDB
+
+OpineDB is a subjective database engine for extracting, aggregating, and querying subjective data. See [our paper](https://arxiv.org/abs/1902.09661) for more details.
 
 ## Install required packages
 
@@ -72,6 +74,8 @@ python eval/run_all.py
 python eval/read_results.py
 ```
 
+The ``read_results.py`` script will print out the data for the two quality-related tables in the original paper.
+
 * To run the query interpreter experiments, one can use the script ``eval/eval_interpreter.py``:
 
 ```
@@ -88,3 +92,7 @@ See instructions in ``extractor/run_extractor.ipynb``. The pipeline was used for
 ## How to run the extraction experiments (and the baseline):
 
 See instructions in Section 2 of ``extractor/run_extractor.ipynb``.
+
+## SQL support 
+
+See instructions in ``sql/``.

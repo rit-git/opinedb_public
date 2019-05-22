@@ -11,4 +11,4 @@ if __name__ == '__main__':
         os.system('rm %s_result.txt' % dataset)
         for _ in range(rep):
             seed = random.randint(0, 1000000000)
-            os.system('python evaluate.py %s %d >> %s_result.txt' % (dataset, seed, dataset))
+            os.system('python eval/evaluate.py %s %d >> %s_result.txt' % (dataset, seed, dataset))

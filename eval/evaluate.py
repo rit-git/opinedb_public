@@ -5,7 +5,12 @@ import random
 import math
 import time
 import numpy as np
-from opine import SimpleOpine
+import importlib.util
+
+spec = importlib.util.spec_from_file_location("opine", "opine.py")
+opinedb = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(opinedb)
+# from opine import SimpleOpine
 
 
 def generate_queries(query_terms, n=100, k=3):
@@ -274,6 +279,8 @@ if __name__ == '__main__':
     dataset = sys.argv[1]
     if len(sys.argv) == 3:
         seed = int(sys.argv[2])
+    else:
+        seed = 123
 
     if dataset == 'amsterdam' or dataset == 'london':
         path = 'data/%s/' % dataset
@@ -308,7 +315,7 @@ if __name__ == '__main__':
     reviews = { review['review_id'] : review for review in reviews }
     query_terms = read_queries(query_fn)
     ground_truth = read_groundtruth(label_fn)
-    op = SimpleOpine(histogram_fn, extraction_fn, phrase_sentiment_fn, word2vec_fn, idf_fn, labels_fn)
+    op = opinedb.SimpleOpine(histogram_fn, extraction_fn, phrase_sentiment_fn, word2vec_fn, idf_fn, labels_fn)
 
     run_experiment(entities, op, entity_type, seed=seed)
 

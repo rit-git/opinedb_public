@@ -6,7 +6,6 @@ certifi==2019.3.9
 chardet==3.0.4
 cymem==2.0.2
 docutils==0.14
-en-core-web-sm==2.1.0
 gensim==3.7.2
 idna==2.8
 jmespath==0.9.4
