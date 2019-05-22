@@ -17,6 +17,18 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
 class CooccurInterpreter:
+    """
+    The co-occurrence query interpreter. When a query predicate is not similar
+    to any linguistic variant, we look at positive reviews that matches the query
+    predicate and find subjective attributes extracted from those reviews.
+
+    Attributes:
+        reviews (Dict): a dictionary from review_id to the review objects
+        review_ids (List): the list of all review ids
+        interpret_cache (Dict): a dictionary caching interpretation results
+        position_index (Dict): an index for fast look-up of position of tokens
+        idf (Dict): stores the idf of each attribute
+    """
     def __init__(self, reviews):
         reviews = { review['review_id'] : review for review in reviews }
         self.reviews = reviews
@@ -63,6 +75,17 @@ class CooccurInterpreter:
 
 
     def get_dist(self, position_index, phrase1, phrase2):
+        """
+        Compute the distance of two phrases in a single review as the
+        minimal distance among the tokens in the two phrases.
+
+        Args:
+            position_index (Dict): an index of a review for position look-up
+            phrase1 (string): the first phrase
+            phrase2 (string): the second phrase
+        Returns:
+            int: the distance
+        """
         tokens1 = gensim.utils.simple_preprocess(phrase1.lower())
         tokens2 = gensim.utils.simple_preprocess(phrase2.lower())
 
@@ -85,6 +108,16 @@ class CooccurInterpreter:
 
 
     def interpret(self, qterm, debug=False):
+        """
+        Compute with the co-occurrence interpreter.
+
+        Args:
+            qterm (string): the query term to be interpreted
+            debug (boolean): whether print debug info
+        Returns:
+            string: the best matching predicate (None if not found)
+            string: the corresponding phrase
+        """
         if qterm in self.interpret_cache:
             return self.interpret_cache[qterm]
 
@@ -146,6 +179,21 @@ class CooccurInterpreter:
 
 
 class SimpleOpine:
+    """
+    The in-memory version of OpineDB. Query interpretation is done with a combination
+    of the word2vec method (nearest neighbor) and the co-occurrence method.
+    Each query predicate is scored by a logistic regression model.
+
+    Attributes:
+        entities (Dict): a dictionary where each item is an entity
+        model (Word2Vec): a word2vec model trained on reviews
+        idf (Dict): a dictionary of the pre-computed idf of each token
+        phrase2vec_cache (Dict): cache for already computed phrase vectors
+        all_phrases (List): the list of all extracted phrases (for query interpretation)
+        membership_cache (Dict): cache the attribute score
+        interpret_cache (Dict): cache the query interpretation results
+    """
+
     def __init__(self, histogram_fn, extraction_fn, phrase_sentiment_fn, word2vec_fn, idf_fn, query_label_fn, entity_fn=None):
         if entity_fn == None:
             self.entities = json.load(open(histogram_fn))
@@ -235,11 +283,23 @@ class SimpleOpine:
         self.phrase_model, self.marker_model = train_scorer()
 
     def clear_cache(self):
+        """
+        clear the membership function's cache and the interpreter's cache (for experiment purpose).
+        """
         self.phrase2vec_cache = {}
         self.membership_cache = {}
         self.interpret_cache = {}
 
     def phrase2vec(self, phrase):
+        """
+        Compute the vector representation of a phrase as the normalized average of
+        the tokens' word vectors weighted by idf.
+
+        Args:
+            phrase (str): the input phrase
+        Returns:
+            A 300d vector
+        """
         if phrase in self.phrase2vec_cache:
             return self.phrase2vec_cache[phrase]
 
@@ -259,6 +319,15 @@ class SimpleOpine:
         return res
 
     def cosine(self, vec1, vec2):
+        """
+        Compute the cosine similarity of two vectors
+
+        Args:
+            vec1 (np.array): the first vector
+            vec2 (np.array): the second vector
+        Returns:
+            float: the cosine similarity
+        """
         norm1 = np.linalg.norm(vec1)
         norm2 = np.linalg.norm(vec2)
         if norm1 > 0 and norm2 > 0:
@@ -268,7 +337,14 @@ class SimpleOpine:
         # return 1.0 - spatial.distance.cosine(vec1, vec2)
 
     def get_marker(self, attr, phrase):
-        # find the closest marker to the input phrase
+        """ Find the closest marker to the input phrase.
+
+        Args:
+            attr (string): the subjective attribute name
+            phrase (string): the input phrase
+        Returns:
+            string: a string representing the best matching marker
+        """
         vec = self.phrase2vec(phrase)
         best_match = None
         best_sim = 0.0
@@ -284,6 +360,17 @@ class SimpleOpine:
 
 
     def get_features_phrases(self, histogram, qterm):
+        """Compute the features without using the markers. The features include
+        the total positive/negative counts, sum of sentiments, number of similar
+        phrases etc.
+
+        Args:
+            histogram (Dictionary): a counter dictionary of extracted phrases
+                of a subjective attribute
+            qterm (string): the input query term
+        Returns:
+            np.array: an array representing the features
+        """
         qvec = self.phrase2vec(qterm)
         # count number of similar phrases
         sim_count = 1.0
@@ -326,6 +413,16 @@ class SimpleOpine:
         return np.array(X)
 
     def get_features_summary(self, summary, qterm, num_markers=10):
+        """Compute the features from the markers. The features include
+        the markers' size, total/average sentiments, and overall similarity
+        with the query term.
+
+        Args:
+            summary (List): a list of summary objects of a subjective attribute
+            qterm (string): the input query term
+        Returns:
+            np.array: an array representing the features
+        """
         qvec = self.phrase2vec(qterm)
         num_marker = len(summary)
         summary.sort(key=lambda x : x['sum_senti'] / (x['size'] + 1))
@@ -343,6 +440,19 @@ class SimpleOpine:
         return X
 
     def interpret(self, query_term, fallback_threshold=0.4):
+        """
+        The query interpreter method. It tries the NN method first. If the best
+        similarity is below the fallback threshold, the co-occurrence method is
+        called.
+
+        Args:
+            query_term (string): the input query term
+            fallback_threshold (float): the similarity threshold for falling back
+        Returns:
+            (string, string): the interpreted subjective attribute and
+                the matching linguistic variant
+        """
+
         if query_term in self.interpret_cache:
             return self.interpret_cache[query_term]
         query_len = len(gensim.utils.simple_preprocess(query_term))
@@ -364,6 +474,17 @@ class SimpleOpine:
         return res
 
     def opine(self, query, bids=None, mode='marker'):
+        """
+        Compute the ranking score for all entities.
+
+        Args:
+            query (List of strings): a list of query terms
+            bids (List): the list of business_id's to be ranked
+            mode (string): to indicate whether to compute the scores using
+                either the markers or wihtout the markers
+        Returns:
+            List of strings: a sorted list of bids' by their scores
+        """
 
         def membership(bid, attr_name, qterm):
             if (bid, attr_name, qterm) in self.membership_cache:
