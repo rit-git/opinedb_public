@@ -93,6 +93,34 @@ See instructions in ``extractor/run_extractor.ipynb``. The pipeline was used for
 
 See instructions in Section 2 of ``extractor/run_extractor.ipynb``.
 
-## SQL support 
+## SQL support
 
-See instructions in ``sql/``.
+Note: The current docker configuration supports Ubuntu only.
+
+# install Docker
+```
+sudo apt install docker docker-compose
+```
+
+# setup and run python in the docker container
+```
+cd sql
+bash run.sh
+```
+
+# import opine and run a test query
+```
+from opine import SimpleOpine
+opine = SimpleOpine()
+sql = """
+        SELECT h.name
+        FROM hotel_amsterdam AS h
+        WHERE h.opine = 'very clean room'
+          AND h.price <= 15
+          AND h.opine = 'helpful staff'
+          AND h.opine = 'romantic'
+        """
+print(opine.opine_sql(sql))
+```
+
+# now you can modify the query to run your own SQL in OpineDB!
