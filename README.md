@@ -97,30 +97,30 @@ See instructions in Section 2 of ``extractor/run_extractor.ipynb``.
 
 Note: The current docker configuration supports Ubuntu only.
 
-# install Docker
+### install Docker
 ```
-sudo apt install docker docker-compose
-```
-
-# setup and run python in the docker container
-```
-cd sql
-bash run.sh
+$ sudo apt install docker docker-compose
 ```
 
-# import opine and run a test query
+### setup and run python in the docker container
 ```
-from opine import SimpleOpine
-opine = SimpleOpine()
-sql = """
-        SELECT h.name
-        FROM hotel_amsterdam AS h
-        WHERE h.opine = 'very clean room'
-          AND h.price <= 15
-          AND h.opine = 'helpful staff'
-          AND h.opine = 'romantic'
-        """
-print(opine.opine_sql(sql))
+$ cd sql
+$ bash run.sh
 ```
 
-# now you can modify the query to run your own SQL in OpineDB!
+### import opine and run a test query
+```
+>>> from opine import SimpleOpine
+>>> opine = SimpleOpine()
+>>> sql = """
+...         SELECT h.name
+...         FROM hotel_amsterdam AS h
+...         WHERE h.opine = 'very clean room'
+...           AND h.price <= 15
+...           AND h.opine = 'helpful staff'
+...           AND h.opine = 'romantic'
+...         """
+>>> print(opine.opine_sql(sql))
+```
+
+### now you can modify the query to run your own SQL in OpineDB!
