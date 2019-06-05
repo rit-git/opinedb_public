@@ -1,0 +1,11 @@
+version: "3"
+services:
+  postgres:
+    build: db
+    ports:
+      - "5432:5432"
+
+  app:
+    build: app
+    depends_on:
+      - postgres

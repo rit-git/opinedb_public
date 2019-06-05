@@ -1,0 +1,6 @@
+psycopg2
+gensim
+numpy
+scipy
+sklearn
+moz_sql_parser

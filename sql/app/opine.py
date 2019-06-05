@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[48]:
-
-
 import sys
 import os
 import json
@@ -27,7 +21,11 @@ def sigmoid(x):
     return 1 / (1 + math.exp(-x))
 
 class SimpleOpine(object):
-    def __init__(self, histogram_fn, phrase_sentiment_fn, word2vec_fn, labels_fn):
+    def __init__(self,
+            histogram_fn="data/amsterdam_hotels_with_histograms.json",
+            phrase_sentiment_fn="data/amsterdam_sentiment.json",
+            word2vec_fn="data/word2vec.model",
+            query_label_fn="data/amsterdam_labels.json"):
         self.entities = json.load(open(histogram_fn))
         self.phrase_sentiments = json.load(open(phrase_sentiment_fn))
         self.model = Word2Vec.load(word2vec_fn)
@@ -47,7 +45,7 @@ class SimpleOpine(object):
                             self.phrase_mp[phrase] = len(self.phrase_mp)
                             self.all_phrases.append((attr, phrase))
                             self.all_vectors.append(self.phrase2vec(phrase))
-            return KDTree(self.all_vectors, leaf_size=40)
+            return KDTree(np.array(self.all_vectors), leaf_size=40)
 
         self.kd_tree = build_NN_index()
 
@@ -80,10 +78,12 @@ class SimpleOpine(object):
                         y_phrases.append(0)
                         y_summary.append(0)
 
-            X_summary, X_summary_test, y_summary, y_summary_test =                 train_test_split(np.array(X_summary), y_summary, test_size=0.33)
+            X_summary, X_summary_test, y_summary, y_summary_test = \
+                train_test_split(np.array(X_summary), y_summary, test_size=0.33)
             marker_model = LogisticRegression().fit(X_summary, y_summary)
 
-            X_phrases, X_phrases_test, y_phrases, y_phrases_test =                 train_test_split(np.array(X_phrases), y_phrases, test_size=0.33)
+            X_phrases, X_phrases_test, y_phrases, y_phrases_test = \
+                train_test_split(np.array(X_phrases), y_phrases, test_size=0.33)
             phrase_model = LogisticRegression().fit(X_phrases, y_phrases)
 
             print('phrase model score = %f' % phrase_model.score(X_phrases_test, y_phrases_test))
@@ -339,11 +339,12 @@ class SimpleOpine(object):
         parsed_sql['select'] = [parsed_sql['select'],
                                 {
                                     'value': 
-                                         {'madlib.elastic_net_binomial_prob': 
+                                         {'logistic': 
                                               [
-                                                  'coef', 'intercept',
-                                                   {'get_feature_phrases': [qvec_literal, 'pvec', 'senti', 'count']}
-                                               ]
+                                                   {'get_feature_phrases': [qvec_literal, 'pvec', 'senti', 'count']},
+                                                  'coef',
+                                                  'intercept'
+                                              ]
                                          }, 
                                      'name': 'score'
                                 }
@@ -413,7 +414,7 @@ class SimpleOpine(object):
         result_row = []
         
         import psycopg2
-        conn = psycopg2.connect("dbname='opinedb' port=6543")
+        conn = psycopg2.connect("host=postgres dbname=postgres user=postgres port=5432")
 
         #no subjective query, only objective
         if len(qterms) == 0:
@@ -502,29 +503,23 @@ class SimpleOpine(object):
         sorted_bids = sorted(bids, key=lambda x : -scores[x])
         return [(bid, scores[bid]) for bid in sorted_bids]
     
-    
+
 if __name__ == '__main__':
-    
-    sys.argv=["opine.py","data/amsterdam_hotels_with_histograms.json","data/amsterdam_sentiment.json","data/word2vec.model", "data/amsterdam_labels.json"]
-
-    if len(sys.argv) < 5:
-        print("Usage: python opine.py histogram_fn sentiment_fn word2vec_fn query_label_fn")
-        exit()
-
     histogram_fn = sys.argv[1]
     sentiment_fn = sys.argv[2]
     word2vec_fn = sys.argv[3]
     query_label_fn = sys.argv[4]
 
     opine = SimpleOpine(histogram_fn, sentiment_fn, word2vec_fn, query_label_fn)
-    
+
+
     #run simple opine original
     #print(opine.opine(['dirty room', 'helpful staff']))
-    
+
     #combine pvec and sent to histo phrases
     #opine.combine_histo_vector()
-    
-    
+
+
     sql1 = """
             SELECT h.name
             FROM hotel_amsterdam AS h
@@ -541,15 +536,15 @@ if __name__ == '__main__':
               AND h.opine = 'romantic'
             """
     print(opine.opine_sql(sql2))
-    
-    
+
+
     sql3 = """
             SELECT h.name
             FROM hotel_amsterdam AS h
             WHERE h.price <= 15
             """
     print(opine.opine_sql(sql3))
-    
+
     sql4 = """
             SELECT h.name
             FROM hotel_amsterdam AS h
@@ -560,7 +555,7 @@ if __name__ == '__main__':
               AND h.opine = 'romantic'
             """
     print(opine.opine_sql(sql4))
-    
+
     sql5 = """
             SELECT h.name
             FROM hotel_amsterdam AS h
@@ -571,7 +566,7 @@ if __name__ == '__main__':
               AND h.opine = 'romantic'
             """
     print(opine.opine_sql(sql5))
-    
+
     sql6 = """
             SELECT h.name
             FROM hotel_amsterdam AS h
@@ -581,13 +576,6 @@ if __name__ == '__main__':
               AND h.opine = 'romantic'
             """
     print(opine.opine_sql(sql6))
-    
+
     #print(opine.opine(['very clean room']))
     #print(opine.opine_in_mem('very clean room'))
-
-
-# In[ ]:
-
-
-
-
