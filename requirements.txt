@@ -11,7 +11,7 @@ idna==2.8
 jmespath==0.9.4
 jsonschema==2.6.0
 murmurhash==1.0.2
-nltk==3.4.1
+nltk==3.4.5
 numpy==1.16.3
 plac==0.9.6
 preshed==2.0.1
