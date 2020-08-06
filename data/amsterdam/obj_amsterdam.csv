@@ -1,0 +1,102 @@
+ID,num:price,num:rating,num:airport_dist,bool:wifi,bool:breakfast,bool:pool
+Hotel Arena,95,8,22,TRUE,FALSE,TRUE
+Morgan Mees,174,9,19,TRUE,TRUE,FALSE
+Sir Albert Hotel,236,9,23,TRUE,TRUE,TRUE
+Corendon Vitality Hotel Amsterdam,62,8,13,TRUE,TRUE,TRUE
+Hampshire Hotel Rembrandt Square Amsterdam,104,8,27,TRUE,TRUE,FALSE
+Pillows Anna van den Vondel Amsterdam,285,9,21,FALSE,FALSE,FALSE
+Best Western Delphi Hotel,147,8,18,FALSE,FALSE,FALSE
+Apollofirst Boutique Hotel,161,9,17,TRUE,TRUE,FALSE
+Hilton Amsterdam,269,8,18,TRUE,FALSE,TRUE
+Apollo Hotel Amsterdam,229,8,19,TRUE,TRUE,TRUE
+Element Amsterdam,189,9,16,TRUE,TRUE,TRUE
+Urban Lodge Hotel,133,9,17,TRUE,FALSE,FALSE
+Hotel De Hallen,188,9,21,TRUE,TRUE,FALSE
+Chasse Hotel,159,9,20,FALSE,FALSE,FALSE
+NH Collection Amsterdam Grand Hotel Krasnapolsky,273,8,29,TRUE,TRUE,TRUE
+Park Plaza Victoria Amsterdam,229,8,31,TRUE,TRUE,TRUE
+Hotel Amsterdam De Roode Leeuw,223,8,29,FALSE,TRUE,FALSE
+Swiss tel Amsterdam,221,9,29,TRUE,TRUE,TRUE
+Holiday Inn Amsterdam,180,8,13,TRUE,TRUE,FALSE
+Best Western Premier Hotel Couture,66,9,15,TRUE,TRUE,TRUE
+Bilderberg Garden Hotel,210,8,18,TRUE,TRUE,TRUE
+NH Amsterdam Noord,90,8,26,TRUE,FALSE,TRUE
+Grand Hotel Downtown,162,8,20,TRUE,TRUE,TRUE
+Amadi Park Hotel,142,8,21,TRUE,TRUE,TRUE
+Novotel Amsterdam City,152,8,15,TRUE,TRUE,TRUE
+Savoy Hotel Amsterdam,119,6,20,TRUE,FALSE,TRUE
+Hotel Okura Amsterdam,264,9,19,TRUE,FALSE,TRUE
+Hotel V Fizeaustraat,199,9,20,FALSE,TRUE,TRUE
+Crowne Plaza Amsterdam South,242,9,17,TRUE,TRUE,TRUE
+WestCord Fashion Hotel Amsterdam,148,9,14,TRUE,TRUE,TRUE
+The Hoxton Amsterdam,269,9,27,TRUE,TRUE,FALSE
+Ambassade Hotel,267,9,26,TRUE,TRUE,TRUE
+Banks Mansion All Inclusive Hotel,187,9,27,FALSE,TRUE,TRUE
+Waldorf Astoria Amsterdam,844,10,27,FALSE,FALSE,TRUE
+NH Amsterdam Museum Quarter,213,8,23,FALSE,FALSE,TRUE
+Amadi Panorama Hotel,113,8,20,TRUE,TRUE,TRUE
+Room Mate Aitana,200,9,22,TRUE,TRUE,TRUE
+Hotel JL No76,222,9,23,TRUE,TRUE,TRUE
+Bilderberg Hotel Jan Luyken,183,8,23,FALSE,TRUE,TRUE
+Mercure Hotel Amsterdam City South,140,8,18,TRUE,TRUE,TRUE
+Dutch Design Hotel Artemis,116,8,11,TRUE,TRUE,TRUE
+Renaissance Amsterdam Hotel,209,8,27,TRUE,TRUE,TRUE
+Canal House,374,9,26,FALSE,TRUE,FALSE
+The Toren,199,9,27,FALSE,FALSE,TRUE
+The Dylan Amsterdam,380,9,26,FALSE,FALSE,TRUE
+Park Plaza Vondelpark Amsterdam,106,8,19,TRUE,TRUE,TRUE
+Best Western Blue Tower Hotel,61,7,16,TRUE,TRUE,TRUE
+Hampshire Hotel Amsterdam American,140,9,23,TRUE,TRUE,TRUE
+Hampshire Hotel The Manor Amsterdam,90,8,23,TRUE,FALSE,FALSE
+Golden Tulip Amsterdam West,62,9,16,TRUE,TRUE,TRUE
+Mercure Amsterdam Sloterdijk Station,143,9,17,TRUE,TRUE,TRUE
+DoubleTree by Hilton Hotel Amsterdam NDSM Wharf,149,8,24,TRUE,TRUE,TRUE
+Hotel V Nesplein,268,9,30,TRUE,TRUE,FALSE
+De L Europe Amsterdam,591,9,27,TRUE,FALSE,TRUE
+NH Collection Amsterdam Doelen,229,9,26,FALSE,TRUE,TRUE
+Hotel Die Port van Cleve,206,8,27,TRUE,TRUE,TRUE
+INK Hotel Amsterdam MGallery by Sofitel,228,9,28,TRUE,TRUE,TRUE
+Inntel Hotels Amsterdam Centre,190,8,29,TRUE,TRUE,TRUE
+Mercure Hotel Amsterdam Centre Canal District,159,8,27,TRUE,TRUE,FALSE
+DoubleTree by Hilton Amsterdam Centraal Station,259,8,28,TRUE,TRUE,TRUE
+Mercure Hotel Amsterdam West,134,8,9,TRUE,TRUE,TRUE
+Luxury Suites Amsterdam,411,9,27,FALSE,TRUE,TRUE
+Sofitel Legend The Grand Amsterdam,410,9,28,FALSE,FALSE,TRUE
+Sir Adam Hotel,243,9,27,FALSE,TRUE,TRUE
+Hampton by Hilton Amsterdam Centre East,179,8,25,FALSE,TRUE,TRUE
+M venpick Hotel Amsterdam City Centre,242,8,26,TRUE,TRUE,TRUE
+Grand Hotel Amr th Amsterdam,210,8,28,TRUE,TRUE,TRUE
+art otel Amsterdam,279,9,25,FALSE,TRUE,TRUE
+NH Collection Amsterdam Barbizon Palace,203,9,29,TRUE,TRUE,TRUE
+Pulitzer Amsterdam,380,9,24,TRUE,TRUE,TRUE
+Dikker en Thijs Fenice Hotel,99,8,24,TRUE,FALSE,TRUE
+Andaz Amsterdam Prinsengracht A Hyatt Hotel,265,9,24,FALSE,FALSE,TRUE
+Hotel Seven One Seven,375,9,28,FALSE,FALSE,FALSE
+citizenM Amsterdam,153,9,17,TRUE,TRUE,TRUE
+InterContinental Amstel Amsterdam,419,9,24,FALSE,FALSE,TRUE
+Golden Tulip Amsterdam Riverside,103,8,20,TRUE,FALSE,TRUE
+NH Amsterdam Caransa,146,8,24,FALSE,FALSE,TRUE
+NH Amsterdam Schiller,174,8,26,TRUE,TRUE,FALSE
+Royal Amsterdam Hotel,206,7,26,FALSE,FALSE,FALSE
+The College Hotel,157,8,21,FALSE,FALSE,FALSE
+Hotel Roemer Amsterdam,211,8,21,TRUE,FALSE,TRUE
+Radisson Blu Hotel Amsterdam,242,9,27,TRUE,TRUE,TRUE
+Hyatt Regency Amsterdam,264,9,24,FALSE,FALSE,TRUE
+Fletcher Hotel Amsterdam,147,8,18,TRUE,TRUE,TRUE
+Hotel Esther a,253,9,27,TRUE,TRUE,TRUE
+Best Western Plus Hotel Blue Square,51,7,17,TRUE,TRUE,TRUE
+WestCord Art Hotel Amsterdam 4 stars,154,9,17,TRUE,TRUE,TRUE
+W Amsterdam,328,8,27,TRUE,TRUE,TRUE
+NH City Centre Amsterdam,194,8,27,TRUE,TRUE,FALSE
+Ramada Apollo Amsterdam Centre,130,8,17,TRUE,TRUE,TRUE
+Amsterdam Marriott Hotel,224,8,20,TRUE,TRUE,TRUE
+Park Hotel,210,8,22,TRUE,TRUE,TRUE
+NH Amsterdam Centre,176,8,20,TRUE,TRUE,FALSE
+Conservatorium Hotel,524,9,22,FALSE,FALSE,TRUE
+NH Amsterdam Zuid,132,8,16,TRUE,TRUE,FALSE
+NH Carlton Amsterdam,200,7,25,TRUE,TRUE,TRUE
+Albus Hotel Amsterdam City Centre,251,8,27,TRUE,FALSE,FALSE
+Hotel Vondel Amsterdam,164,8,20,TRUE,TRUE,TRUE
+Boutique Hotel Notting Hill,189,8,26,TRUE,TRUE,TRUE
+Amsterdam Canal Residence,222,8,24,FALSE,FALSE,TRUE
+The Student Hotel Amsterdam City,124,9,19,TRUE,TRUE,TRUE

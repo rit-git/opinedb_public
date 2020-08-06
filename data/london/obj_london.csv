@@ -1,0 +1,190 @@
+ID,num:price,num:rating,num:airport_dist,bool:wifi,bool:breakfast,bool:pool
+88 Studios,156,8,28,TRUE,TRUE,FALSE
+Adria Boutique Hotel,193,9,32,FALSE,TRUE,FALSE
+Aloft London Excel,266,9,74,TRUE,TRUE,TRUE
+Ambassadors Bloomsbury,288,8,46,TRUE,TRUE,FALSE
+Arbor City,283,9,63,TRUE,TRUE,TRUE
+Arbor Hyde Park,271,8,38,TRUE,TRUE,FALSE
+Ashburn Hotel,224,9,28,TRUE,TRUE,FALSE
+Avo Hotel,117,8,66,TRUE,FALSE,FALSE
+Batty Langley s,288,9,64,FALSE,TRUE,TRUE
+Bentley London,293,8,30,TRUE,FALSE,TRUE
+Bermondsey Square Hotel A Bespoke Hotel,271,8,57,TRUE,TRUE,TRUE
+Best Western Palm Hotel,117,8,35,TRUE,TRUE,TRUE
+Best Western PLUS Epping Forest,124,8,59,TRUE,TRUE,FALSE
+Best Western Plus Seraphine Hammersmith Hotel,176,8,23,TRUE,TRUE,TRUE
+Best Western The Boltons Hotel London Kensington,172,8,29,TRUE,TRUE,FALSE
+Blakemore Hyde Park,205,9,36,TRUE,TRUE,TRUE
+Bloomsbury Palace Hotel,177,7,47,TRUE,TRUE,TRUE
+Britannia International Hotel Canary Wharf,163,7,69,TRUE,TRUE,TRUE
+Caesar Hotel,178,8,37,FALSE,TRUE,FALSE
+Chiswick Rooms,148,8,22,TRUE,FALSE,FALSE
+citizenM London Bankside,261,9,55,TRUE,TRUE,TRUE
+citizenM Tower of London,281,9,60,TRUE,TRUE,TRUE
+Clayton Crown Hotel London,144,8,37,TRUE,TRUE,TRUE
+Clayton Hotel Chiswick,179,9,17,TRUE,TRUE,TRUE
+Comfort Inn Suites Kings Cross St Pancras,222,8,50,TRUE,TRUE,FALSE
+Copthorne Tara Hotel London Kensington,231,8,30,TRUE,TRUE,TRUE
+Crowne Plaza London Battersea,189,9,40,TRUE,TRUE,TRUE
+Crowne Plaza London Docklands,272,9,74,TRUE,TRUE,TRUE
+Crowne Plaza London Ealing,177,9,25,FALSE,TRUE,TRUE
+Crowne Plaza London Kings Cross,268,8,51,TRUE,TRUE,TRUE
+Danubius Hotel Regents Park,189,8,42,TRUE,TRUE,TRUE
+De Vere Devonport House,115,8,75,TRUE,TRUE,TRUE
+Dorsett Shepherds Bush,200,9,26,TRUE,TRUE,TRUE
+DoubleTree by Hilton London Chelsea,243,8,35,TRUE,TRUE,TRUE
+DoubleTree by Hilton London Docklands Riverside,248,8,67,TRUE,TRUE,TRUE
+DoubleTree by Hilton London Ealing,178,8,22,TRUE,TRUE,TRUE
+DoubleTree By Hilton London Excel,233,8,72,TRUE,TRUE,TRUE
+Doubletree By Hilton London Greenwich,170,9,72,TRUE,TRUE,TRUE
+DoubleTree by Hilton London Hyde Park,233,8,35,TRUE,TRUE,FALSE
+Doubletree by Hilton London Kensington,268,8,32,TRUE,TRUE,TRUE
+DoubleTree by Hilton London Westminster,285,9,44,TRUE,TRUE,TRUE
+Draycott Hotel,212,9,37,FALSE,FALSE,FALSE
+Durrants Hotel,296,8,44,FALSE,TRUE,TRUE
+Eccleston Square Hotel,255,9,41,FALSE,TRUE,FALSE
+Fielding Hotel,269,9,51,TRUE,TRUE,TRUE
+Gainsborough Hotel,117,7,30,TRUE,TRUE,TRUE
+Georgian House Hotel,184,8,40,FALSE,TRUE,FALSE
+Good Hotel London,243,8,72,TRUE,TRUE,TRUE
+Grand Royale London Hyde Park,215,8,38,TRUE,TRUE,TRUE
+Grange Beauchamp Hotel,249,9,50,TRUE,TRUE,FALSE
+Grange Buckingham Hotel,261,9,50,TRUE,FALSE,FALSE
+Grange Clarendon Hotel,245,8,50,TRUE,TRUE,FALSE
+Grange Fitzrovia Hotel,245,8,45,TRUE,TRUE,TRUE
+Grange Langham Court Hotel,220,8,46,TRUE,FALSE,FALSE
+Grange Strathmore Hotel,212,8,29,TRUE,TRUE,FALSE
+Grange Wellington Hotel,236,9,45,TRUE,TRUE,FALSE
+Grange White Hall Hotel,220,8,50,TRUE,TRUE,FALSE
+Great St Helen Hotel,269,7,63,TRUE,TRUE,TRUE
+Grosvenor House Suites by Jumeirah Living,585,9,40,FALSE,FALSE,TRUE
+H10 London Waterloo,241,9,50,TRUE,TRUE,TRUE
+Henley House Hotel,181,9,28,TRUE,TRUE,FALSE
+Henry VIII,171,7,36,TRUE,TRUE,TRUE
+Hilton London Hyde Park,249,8,36,TRUE,FALSE,FALSE
+Hilton London Kensington Hotel,217,8,30,TRUE,TRUE,TRUE
+Hilton London Olympia,200,7,26,TRUE,TRUE,TRUE
+Holiday Inn London Brent Cross,134,8,34,TRUE,FALSE,TRUE
+Holiday Inn London Camden Lock,297,9,49,TRUE,TRUE,FALSE
+Holiday Inn London Kensington,209,8,29,TRUE,TRUE,TRUE
+Holiday Inn London Kensington Forum,151,8,29,TRUE,TRUE,TRUE
+Holiday Inn London Stratford City,213,9,71,TRUE,TRUE,TRUE
+Holiday Inn London Wembley,160,8,32,TRUE,TRUE,TRUE
+Holiday Inn London West,185,8,28,TRUE,TRUE,TRUE
+Holiday Inn London Whitechapel,226,9,65,FALSE,FALSE,TRUE
+Hotel 55,156,9,22,TRUE,TRUE,FALSE
+Hotel 82 London,177,8,41,TRUE,TRUE,FALSE
+Hotel Cavendish,138,6,46,TRUE,TRUE,FALSE
+Hotel du Vin Cannizaro House Wimbledon,176,8,39,TRUE,FALSE,TRUE
+Hotel Indigo London Kensington,234,9,28,TRUE,TRUE,TRUE
+Hotel La Place,171,8,43,TRUE,TRUE,FALSE
+Hotel Moonlight,144,9,28,TRUE,FALSE,FALSE
+Hotel Xanadu,151,9,24,FALSE,FALSE,TRUE
+Hotel Xenia Autograph Collection,222,9,27,TRUE,FALSE,TRUE
+Innkeeper s Lodge London Greenwich,143,8,74,TRUE,TRUE,FALSE
+Intercontinental London The O2,184,9,82,TRUE,TRUE,TRUE
+K K Hotel George,259,9,28,TRUE,TRUE,TRUE
+K West Hotel Spa,212,8,26,TRUE,TRUE,TRUE
+Kensington House Hotel,200,8,32,FALSE,TRUE,FALSE
+La Suite West Hyde Park,247,8,37,FALSE,TRUE,FALSE
+Lansbury Heritage Hotel,231,9,70,FALSE,FALSE,FALSE
+London Marriott Hotel Kensington,267,8,31,TRUE,TRUE,FALSE
+London Marriott Hotel Regents Park,259,8,44,TRUE,TRUE,TRUE
+London Marriott Maida Vale,240,8,43,TRUE,FALSE,TRUE
+London Suites,112,7,69,TRUE,FALSE,FALSE
+Marlin Waterloo,283,9,49,FALSE,FALSE,FALSE
+Mayflower Hotel Apartments,141,8,28,TRUE,TRUE,FALSE
+Mercure London Bloomsbury Hotel,264,8,49,TRUE,FALSE,FALSE
+Mercure London Kensington Hotel,204,8,27,TRUE,FALSE,TRUE
+Millennium Copthorne Hotels at Chelsea Football Club,246,8,33,TRUE,TRUE,TRUE
+Millennium Gloucester Hotel London,173,8,30,TRUE,TRUE,TRUE
+Millennium Hotel London Knightsbridge,276,8,37,TRUE,TRUE,TRUE
+Mimi s Hotel Soho,189,8,50,TRUE,TRUE,FALSE
+Montagu Place Hotel,294,9,40,TRUE,TRUE,TRUE
+My Bloomsbury,288,8,49,TRUE,TRUE,FALSE
+My Chelsea,235,8,35,TRUE,TRUE,TRUE
+New Linden Hotel,152,8,37,TRUE,TRUE,FALSE
+NH London Kensington,209,8,26,TRUE,FALSE,FALSE
+Nottingham Place Hotel,210,8,43,TRUE,TRUE,TRUE
+Novotel London Excel,240,9,74,TRUE,TRUE,TRUE
+Novotel London Greenwich,177,9,72,TRUE,FALSE,TRUE
+Novotel London Wembley,143,9,34,TRUE,TRUE,TRUE
+Novotel London West,194,8,25,TRUE,TRUE,TRUE
+Old Ship Inn Hackney,104,8,70,FALSE,TRUE,FALSE
+Park Avenue Baker Street,213,8,41,TRUE,TRUE,FALSE
+Park Grand London Hyde Park,160,8,36,TRUE,TRUE,TRUE
+Park Grand London Kensington,250,8,29,TRUE,TRUE,TRUE
+Park Grand London Lancaster Gate,257,9,37,TRUE,FALSE,TRUE
+Park International Hotel,177,8,30,TRUE,TRUE,FALSE
+Park Lane Mews Hotel,269,7,40,TRUE,TRUE,TRUE
+Park Plaza London Park Royal,166,9,24,TRUE,FALSE,TRUE
+Park Plaza London Waterloo,289,9,48,TRUE,TRUE,TRUE
+Portobello House,197,8,35,FALSE,TRUE,FALSE
+Radisson Blu Edwardian Grafton,261,8,47,TRUE,TRUE,FALSE
+Radisson Blu Edwardian Kenilworth,262,8,49,TRUE,TRUE,TRUE
+Radisson Blu Edwardian Sussex,260,8,44,TRUE,TRUE,TRUE
+Radisson Blu Edwardian Vanderbilt,216,8,29,TRUE,TRUE,FALSE
+Radisson Blu Portman Hotel London,278,8,42,TRUE,TRUE,TRUE
+Rafayel Hotel Spa,159,8,39,TRUE,FALSE,TRUE
+Rathbone,247,8,50,TRUE,TRUE,FALSE
+Royal Garden Hotel,263,9,33,TRUE,TRUE,TRUE
+Rubens At The Palace,277,9,40,TRUE,TRUE,TRUE
+Rydges Kensington Hotel,200,8,29,TRUE,TRUE,TRUE
+Seraphine Kensington Gardens Hotel,187,7,32,FALSE,TRUE,FALSE
+Shaftesbury Hyde Park International,215,8,37,TRUE,TRUE,TRUE
+Shaftesbury Suites London Marble Arch,208,8,41,FALSE,TRUE,TRUE
+Simply Rooms Suites,136,8,26,FALSE,FALSE,FALSE
+Sloane Square Hotel,269,8,37,TRUE,TRUE,FALSE
+St George Hotel,188,7,42,TRUE,TRUE,FALSE
+St George s Hotel Wembley,106,9,31,TRUE,TRUE,TRUE
+St Paul s Hotel,267,9,24,TRUE,TRUE,TRUE
+Staunton Hotel B B,277,8,48,TRUE,TRUE,FALSE
+Staybridge Suites London Stratford,237,9,72,TRUE,TRUE,TRUE
+Strand Palace Hotel,250,8,49,TRUE,TRUE,TRUE
+Sydney House Chelsea,268,9,34,TRUE,TRUE,FALSE
+The Abbey Court Notting Hill,160,8,35,FALSE,FALSE,FALSE
+The Bailey s Hotel London,236,9,31,TRUE,TRUE,TRUE
+The Beaufort,270,9,33,FALSE,TRUE,FALSE
+The Belgrave Hotel,208,9,42,TRUE,TRUE,FALSE
+The Bryson Hotel,283,8,54,FALSE,TRUE,TRUE
+The Chelsea Harbour Hotel,290,9,36,TRUE,TRUE,TRUE
+The Cleveland,178,8,36,TRUE,TRUE,FALSE
+The Colonnade,251,8,39,TRUE,TRUE,TRUE
+The Cumberland A Guoman Hotel,248,8,40,TRUE,TRUE,TRUE
+The Drayton Court Hotel,148,9,24,TRUE,TRUE,TRUE
+The Exhibitionist Hotel,222,8,30,TRUE,TRUE,TRUE
+The Gore Hotel Starhotels Collezione,268,9,32,TRUE,FALSE,FALSE
+The Hoxton Holborn,243,9,54,TRUE,TRUE,TRUE
+The Justin James Hotel,109,8,37,TRUE,TRUE,FALSE
+The Kensington Hotel,288,9,32,FALSE,FALSE,FALSE
+The Kings Head Hotel,151,9,21,FALSE,TRUE,FALSE
+The Leonard Hotel,235,8,41,TRUE,TRUE,FALSE
+The Lodge Hotel Putney,146,8,38,FALSE,TRUE,FALSE
+The Mandeville Hotel,272,9,45,TRUE,TRUE,FALSE
+The Marble Arch London,298,8,41,TRUE,TRUE,TRUE
+The Montague On The Gardens,298,9,50,FALSE,FALSE,TRUE
+The Nadler Kensington,200,9,28,TRUE,FALSE,FALSE
+The Park City Grand Plaza Kensington Hotel,237,8,28,TRUE,TRUE,TRUE
+The Park Grand London Paddington,222,8,37,TRUE,TRUE,TRUE
+The Piccadilly London West End,298,9,46,TRUE,TRUE,TRUE
+The Pillar Hotel,191,9,35,FALSE,FALSE,FALSE
+The Portobello Hotel,296,9,34,FALSE,TRUE,FALSE
+The Premier Notting Hill,166,7,36,TRUE,TRUE,FALSE
+The Queens Gate Hotel,188,8,30,TRUE,TRUE,FALSE
+The RE London Shoreditch,166,8,65,TRUE,TRUE,TRUE
+The Rembrandt,241,9,31,TRUE,TRUE,TRUE
+The Rockwell,143,9,30,TRUE,TRUE,FALSE
+The Soho Hotel,409,10,48,FALSE,FALSE,FALSE
+The Sumner Hotel,241,9,41,FALSE,FALSE,TRUE
+The Tophams Hotel,164,7,40,FALSE,FALSE,FALSE
+The Tower A Guoman Hotel,289,9,63,TRUE,TRUE,TRUE
+The Victoria,164,8,28,FALSE,TRUE,FALSE
+The Westbridge Hotel,160,9,75,TRUE,TRUE,TRUE
+The Whitechapel,170,8,64,TRUE,FALSE,FALSE
+TheWesley,271,8,47,TRUE,TRUE,FALSE
+Thistle Hyde Park,238,8,37,FALSE,TRUE,FALSE
+Thistle Kensington Gardens,216,8,37,TRUE,TRUE,FALSE
+Twenty Nevern Square Hotel,213,8,29,TRUE,TRUE,FALSE
+United Lodge Hotel and Apartments,133,8,56,TRUE,FALSE,FALSE
+W12 Rooms,143,9,28,TRUE,TRUE,FALSE
+Windermere Hotel,253,9,40,FALSE,FALSE,FALSE
